@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "/Users/ashleysolomon/Development/adgainer_stt/quasar"
+    },
+    {
+      "path": "/Users/ashleysolomon/Development/adgainer_stt/client"
+    },
+    {
+      "path": "/Users/ashleysolomon/Development/smartteam"
+    }
+  ],
+  "settings": {
+    "editor.fontSize": 11,
+    "editor.tabSize": 4,
+    "[javascript]": {
+      "editor.fontSize": 11,
+      "editor.tabSize": 2
+    },
+    "[json]": {
+      "editor.tabSize": 2
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{ 
+    "words": [
+    {
+       "display_as": "HTC10",
+       "sounds_like": ["H T C Ten"],
+       "count": 1,
+       "source": ["user"],
+       "word": "HTC10"
+    },
+    {
+       "display_as": "IMac",
+       "sounds_like": [
+          "Ai mac",
+          "Ay mak",
+          "I mac",
+          "I mak"
+       ],
+       "count": 1,
+       "source": ["user"],
+       "word": "IMac"
+    },
+    {
+       "display_as": "IphoneX",
+       "sounds_like": ["I phone Ten"],
+       "count": 1,
+       "source": ["user"],
+       "word": "IphoneX"
+    },
+    {
+       "display_as": "Mate10",
+       "sounds_like": ["Huwa way"],
+       "count": 1,
+       "source": ["user"],
+       "word": "Mate10"
+    },
+    {
+       "display_as": "Oneplus5",
+       "sounds_like": ["One plus five"],
+       "count": 1,
+       "source": ["user"],
+       "word": "Oneplus5"
+    },
+    {
+       "display_as": "S8",
+       "sounds_like": [
+          "Samsung S eight",
+          "Samsung es eight"
+       ],
+       "count": 1,
+       "source": ["user"],
+       "word": "S8"
+    }
+ ]
+}

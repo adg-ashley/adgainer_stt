@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "/Users/ashleysolomon/Development/smartteam"
+    },
+    {
+      "path": "/Users/ashleysolomon/Development/timesheet"
+    },
+    {
+      "path": "/Users/ashleysolomon/Development/rtadgainer"
+    }
+  ],
+  "settings": {
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "[javascript]": {
+      "editor.fontSize": 12,
+      "editor.tabSize": 2
+    },
+    "[json]": {
+      "editor.tabSize": 2
+    }
+  }
+}
